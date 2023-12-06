@@ -1,10 +1,10 @@
-# odin-recipes
+# Recipes List
 
-This is the first project that will be created for "The Odin Project" 
-which will test our knowledge of the basics of HTML as well as reinforce
-everything we've learned thus far. We will be creating a basic recipe 
-webpage as our project. 
+This is the first project in the foundations course of "The Odin Project".
 
-We will also be implementing the use of Git in order to build the habit 
-of using Git and becoming more comfortable with it.
+# About
+
+These webpages contain a basic layout using basic HTML tags. 
+The contents of the webpages, not including the homepage, 
+contain simple instructions for creating a dish.
 
