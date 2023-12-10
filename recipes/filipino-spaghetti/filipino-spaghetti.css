@@ -1,0 +1,49 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(60, 40, 30);
+}
+
+.background {
+    background-color: rgb(160, 130, 100);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 20px;
+}
+
+.shift-right {
+    padding: 0 20rem 0 20rem;
+}
+
+.background.header, h2, p {
+    text-align: center;
+}
+
+#background {
+    padding: 5rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h1, h2, p, li {
+    color: #ffffff;
+}
+
+ul > li {
+    font-size: 1.5rem;
+    list-style-type: circle;
+}
